@@ -1,6 +1,6 @@
 numpy
 scipy>=1.0
-flavio
+flavio==0.27
 matplotlib>=2.1
 nose
 RISE
