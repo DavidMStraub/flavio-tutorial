@@ -4,3 +4,5 @@ flavio==0.27
 matplotlib>=2.1
 nose
 RISE
+emcee
+iminuit
